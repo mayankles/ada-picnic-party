@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Ada's Birthday Paw-ty
+------------------------
+## Happy Barkday
 
-You can use the [editor on GitHub](https://github.com/mayankles/ada-picnic-party/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide food and drinks and such (alcohol is not allowed at this type of picnic shelter, womp womp).  There's also a dog park close to the picnic areas, so we can take the doggos to play in there if there's enough demand!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Event information
+||     |
+| :---:        |    :----   |
+| What | Ada's bday picnic |
+| When | Saturday, July 17th, 1 pm to 5 pm |
+| Where| Black Hill Regional Park, Picnic Shelter H |
+| Links| Black Hill Regional Park, Picnic Shelter H |
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayankles/ada-picnic-party/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

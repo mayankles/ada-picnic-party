@@ -1,5 +1,7 @@
+
 # Ada's Birthday Paw-ty
 ------------------------
+
 ## Happy Barkday
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!
@@ -8,7 +10,8 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 
 
 ## Event information
-||     |
+
+| |     |
 | :---:        |    :----   |
 | What | Ada's bday picnic |
 | When | Saturday, July 17th, 1 pm to 5 pm |

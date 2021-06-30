@@ -1,5 +1,6 @@
-# Ada's Birthday Paw-ty
+# Ada Pics
 ------------------------
+
 ## Happy Barkday
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!

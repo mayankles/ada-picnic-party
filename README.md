@@ -1,6 +1,4 @@
 
-# Ada's Birthday Paw-ty
-------------------------
 
 ## Happy Barkday
 

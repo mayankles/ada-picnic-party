@@ -2,13 +2,11 @@
 
 ## Ada picture album
 ------------------------
-
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/zATKnPnBc8SCzfN6A"
   data-title="Ada!"
-  data-description="251 new photos · Album by Mayank Tandon"
-  data-delay="2">
+  data-description="251 new photos · Album by Mayank Tandon">
   <object data="https://lh3.googleusercontent.com/RW_o7UpUEnIKG_nXGbdl-Wu6UKVzj4oXhm1Wwme9S-nSoMueonxN6CsfVEh3R1qKoherPlEDm7YWZ6GVAYyoG5QIMR7Gg2bs1A9i9hmmhNB3nisH19EnQYo_f_HisB1qnEMLLQshPyw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/2JTXKrsnQ9y4731yx2nSiUYb0Ecr3t0j1RoPivV1gXRgSBmUAXsoSczTd0uYxSl_oGJZDe_V6rCv5qcnDF6zO5UEg5Pg1AAIUMlAnD4bGlYUKB-D3XfnlWyXjItfTNGd03vqfY6D7iA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/BBm86QLrsyN2JfPSdj9v3EEq7QZk7b61cXgS-nrsfJsA1FUet4gR71xnTwzfHrUj4JOrc-AMmwVar_o0G6bFXzWe6dij83dLSzDjt3pzhsn82VKw6LhiuG4Y1dreRezvUdIyzKVgyHM=w1920-h1080"></object>
@@ -261,4 +259,7 @@
   <object data="https://lh3.googleusercontent.com/DEMwrIfS-J6ddJg7pTH_FR3dQNlNMnE4U09QsApYyj-RE3VKWHgxg9pFEHyG_Jj790qf4HyP9okCM30ro9yhR6kav7Pnti4LmcnEP8fusRJT_jjraL7dp5ffgHiNMoNuhWZTTigmVvg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/givd0ylPw5VScWg8c4GjMymXNyEfIGRLjNmm6cGMl6DELY_brkk1-gLlKMNdj0M6yTm9qd-4hqFRuJH_EsiGq1UWwTgetGenSj0gEn2-hj-qw0my-V_mbzW1RxUD17JyEWXATZB-e9s=w1920-h1080"></object>
 </div>
+
+----------------
+
 

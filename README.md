@@ -1,6 +1,5 @@
 ---
-layout: list # or `grid`
-title:  Birthday Picnic Paw-ty!!!
+title:  Birthday Picnic Paw-ty
 ---
 
 ## Happy Barkday!

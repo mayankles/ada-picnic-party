@@ -1,6 +1,7 @@
 
-## Happy Barkday
-
+## :dog: Happy Barkday! :dog:
+----------------------------------
+![It's my birthday!](pics/ada-bday-meme.jpg)
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!
 
 I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide food and drinks and such (alcohol is not allowed at this type of picnic shelter, womp womp).  There's also a dog park close to the picnic areas, so we can take the doggos to play in there if there's enough demand!

@@ -1,5 +1,4 @@
 
-
 ## Happy Barkday
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!
@@ -16,7 +15,7 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 | Where| Black Hill Regional Park, Picnic Shelter H |
 | Links | [Park website](https://www.montgomeryparks.org/parks-and-trails/black-hill-regional-park/),<br />[Picnic Shelter Map](https://www.montgomeryparks.org/resources/black-hill-regional-park-picnic-shelter-map/),<br />[Google Maps to picnic shelter](https://goo.gl/maps/DTmQSrPd8toy8eRC6)|
 
-## Check it out!
+## Pictures of Ada!
 - [Ada pics](slideshow.md)
 
 

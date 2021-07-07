@@ -2,3 +2,6 @@
 remote_theme: hydecorp/hydejack
 
 accent_image: /pics/cover.jpg
+
+theme_color:  rgb(102,212,0)
+

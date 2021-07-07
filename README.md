@@ -1,4 +1,3 @@
-% Birthday Paw-ty
 
 ## Happy Barkday!
 

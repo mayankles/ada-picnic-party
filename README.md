@@ -28,14 +28,14 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 ## RSVP
 ----------------------------------
 
-RSVP using [this form](https://docs.google.com/forms/d/e/1FAIpQLScaC225kOC1HwxtNEOYj1iCfuS7g22IfTUn26rNmp6QscNyZA/viewform).
+Let me know if you're coming using [this form](https://docs.google.com/forms/d/e/1FAIpQLScaC225kOC1HwxtNEOYj1iCfuS7g22IfTUn26rNmp6QscNyZA/viewform).
 
-I'll keep it open until July 10th.
+I'll keep it open until ~July 10th.
 
 ## More
 ----------------------------------
 
-- [Ada picture slidesow!](https://mayankles.github.io/ada-picnic-party/slideshow.html)
+- [Ada picture slideshow!](https://mayankles.github.io/ada-picnic-party/slideshow.html)
 
 
 

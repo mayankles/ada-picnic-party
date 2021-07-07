@@ -1,3 +1,7 @@
+---
+layout: list # or `grid`
+title:  Birthday Picnic Paw-ty!!!
+---
 
 ## Happy Barkday!
 
@@ -24,10 +28,18 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 | Where| Black Hill Regional Park, Picnic Shelter H |
 | Links | [Park website](https://www.montgomeryparks.org/parks-and-trails/black-hill-regional-park/),<br />[Picnic Shelter Map](https://www.montgomeryparks.org/resources/black-hill-regional-park-picnic-shelter-map/),<br />[Google Maps to picnic shelter](https://goo.gl/maps/DTmQSrPd8toy8eRC6)|
 
-## Pictures of Ada!
+
+## RSVP
 ----------------------------------
 
-- [Ada pics](https://mayankles.github.io/ada-picnic-party/slideshow.html)
+RSVP using [this form](https://docs.google.com/forms/d/e/1FAIpQLScaC225kOC1HwxtNEOYj1iCfuS7g22IfTUn26rNmp6QscNyZA/viewform).
+
+I'll keep it open until July 10th.
+
+## More
+----------------------------------
+
+- [Ada picture slidesow!](https://mayankles.github.io/ada-picnic-party/slideshow.html)
 
 
 

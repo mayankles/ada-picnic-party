@@ -4,9 +4,9 @@
 ----------------------------------
 
 <p float="left" align="center">
-    <img src="pics/ada-1.jpg" alt="It's my birthday!" width="33%" height="40%"/>
-    <img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="33%" height="40%"/>
-    <img src="pics/ada-2.jpg" alt="It's my birthday!" width="33%" height="40%"/>
+    <img src="pics/ada-1.jpg" alt="It's my birthday!" width="30%" height="40%"/>
+    <img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="30%" height="40%"/>
+    <img src="pics/ada-2.jpg" alt="It's my birthday!" width="30%" height="40%"/>
 </p>
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!

@@ -1,7 +1,4 @@
-
----
-title:  Birthday Picnic Paw-ty!
----
+% Birthday Paw-ty
 
 ## Happy Barkday!
 

@@ -1,8 +1,9 @@
 
 ## Happy Barkday!
+
 ----------------------------------
-<img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="300"/>
-----------------------------------
+
+<img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="300" class="center"/>
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!
 
@@ -10,6 +11,7 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 
 
 ## Event information
+----------------------------------
 
 | |     |
 | :---:        |    :----   |
@@ -19,6 +21,8 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 | Links | [Park website](https://www.montgomeryparks.org/parks-and-trails/black-hill-regional-park/),<br />[Picnic Shelter Map](https://www.montgomeryparks.org/resources/black-hill-regional-park-picnic-shelter-map/),<br />[Google Maps to picnic shelter](https://goo.gl/maps/DTmQSrPd8toy8eRC6)|
 
 ## Pictures of Ada!
+----------------------------------
+
 - [Ada pics](https://mayankles.github.io/ada-picnic-party/slideshow.html)
 
 

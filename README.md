@@ -2,8 +2,13 @@
 ## Happy Barkday!
 
 ----------------------------------
-
-<img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="300" class="center"/>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+<img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="300" class="center">
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!
 

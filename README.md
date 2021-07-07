@@ -1,8 +1,7 @@
 
-## :dog: Happy Barkday! :dog:
+## Happy Barkday!
 ----------------------------------
-![It's my birthday!](pics/ada-bday-meme.jpg)
-<img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="200"/>
+<img src="pics/ada-bday-meme.jpg" alt="It's my birthday!" width="300"/>
 ----------------------------------
 
 My dog Ada and I are turning about the same age this year, so it felt like a good excuse to throw a party!

@@ -17,7 +17,7 @@ I've reserved a picnic shelter at Black Hill Regional Park, and I'll provide foo
 | Links | [Park website](https://www.montgomeryparks.org/parks-and-trails/black-hill-regional-park/),<br />[Picnic Shelter Map](https://www.montgomeryparks.org/resources/black-hill-regional-park-picnic-shelter-map/),<br />[Google Maps to picnic shelter](https://goo.gl/maps/DTmQSrPd8toy8eRC6)|
 
 ## Pictures of Ada!
-- [Ada pics](slideshow.md)
+- [Ada pics](https://mayankles.github.io/ada-picnic-party/slideshow.html)
 
 
 
